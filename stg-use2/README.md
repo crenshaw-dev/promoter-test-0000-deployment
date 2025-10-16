@@ -5,5 +5,5 @@ To hydrate the manifests in this repository, run the following commands:
 ```shell
 git clone https://github.com/crenshaw-dev/promoter-test-0000-deployment
 # cd into the cloned directory
-git checkout 956bfc233a96370c9a7a1112cd76afaed9c21fe6
+git checkout 230e9872e4e5afce5575c1807be0f042c16f6fcd
 ```
